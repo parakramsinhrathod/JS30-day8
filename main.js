@@ -8,7 +8,7 @@ ctx.strokeStyle = '#BADA55'
 ctx.lineJoin = 'round'
 ctx.lineCap = 'round'
 
-// ctx.globalCompositeOperation = 'multiply'
+// ctx.globalCompositeOperation = 'multiply'    
 
 let isDrawing = false
 let lastX = 0
